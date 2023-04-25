@@ -50,7 +50,7 @@ export default function Home({ session }: HomeProps) {
       </h1>
       <p className="text-gray-300 my-6 text-center">
       <ul>
-          <li>Meet and connect with Coinfund Portcos</li>
+          <li>Meet and connect with Holaplex Partners</li>
           <li>Mint their NFTs</li>
           <li>Collect 5 NFTs to be entered into our raffle for a Claynosaurz!</li>
         </ul>
